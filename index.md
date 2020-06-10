@@ -3,7 +3,7 @@ layout: cv
 title: Lei Pan's CV
 ---
 # Lei Pan
-Bioinformatics PhD and data scientist
+Adjunct Lecturer in Economics
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
