@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Lei Pan's CV
 ---
-# Benjamin L. Moore
+# Lei Pan
 Bioinformatics PhD and data scientist
 
 <div id="webaddress">
