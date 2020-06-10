@@ -6,7 +6,7 @@ title: Lei Pan's CV
 Adjunct Lecturer in Economics
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:lei.pan@monash.edu">lei.pan@monash.edu</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
 |
